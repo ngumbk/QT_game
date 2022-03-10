@@ -1,0 +1,24 @@
+<RCC>
+    <qresource prefix="/Packs">
+        <file>Packs/WorldPack/WD1.jpg</file>
+        <file>Packs/WorldPack/WD2.jpg</file>
+        <file>Packs/WorldPack/WD3.jpg</file>
+        <file>Packs/WorldPack/WD4.jpg</file>
+        <file>Packs/WorldPack/WD5.jpg</file>
+        <file>Packs/WorldPack/WD6.jpg</file>
+        <file>Packs/WorldPack/WD7.jpg</file>
+        <file>Packs/WorldPack/WD8.jpg</file>
+        <file>Packs/WorldPack/WD9.jpg</file>
+        <file>Packs/WorldPack/WD10.jpg</file>
+        <file>Packs/RussiaPack/RU1.jpg</file>
+        <file>Packs/RussiaPack/RU2.jpeg</file>
+        <file>Packs/RussiaPack/RU3.jpg</file>
+        <file>Packs/RussiaPack/RU4.jpg</file>
+        <file>Packs/RussiaPack/RU5.jpg</file>
+        <file>Packs/RussiaPack/RU6.jpg</file>
+        <file>Packs/RussiaPack/RU7.jpg</file>
+        <file>Packs/RussiaPack/RU8.jpeg</file>
+        <file>Packs/RussiaPack/RU9.jpg</file>
+        <file>Packs/RussiaPack/RU10.jpeg</file>
+    </qresource>
+</RCC>

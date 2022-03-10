@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/util_img">
+        <file>util_img/Logo_pink_grey.png</file>
+        <file>util_img/Party Face Emoji.png</file>
+    </qresource>
+</RCC>
